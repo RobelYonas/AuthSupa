@@ -1,4 +1,4 @@
-package com.ad_coding.supabasecourse
+package com.supabaseAuth
 
 import android.content.Context
 import android.os.Bundle

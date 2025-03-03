@@ -1,4 +1,4 @@
-package com.ad_coding.supabasecourse
+package com.ad_coding.supabaseAuth
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

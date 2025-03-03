@@ -1,4 +1,4 @@
-package com.ad_coding.supabasecourse
+package com.ad_coding.supabaseAuth
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.ad_coding.supabasecourse.ui.theme
+package com.ad_coding.supabaseAuth.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

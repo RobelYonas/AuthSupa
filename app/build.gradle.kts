@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ad_coding.supabasecourse"
+    namespace = "com.supabaseAuth"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.ad_coding.supabasecourse"
+        applicationId = "com.supabaseAuth"
         minSdk = 28
         targetSdk = 35
         versionCode = 1
